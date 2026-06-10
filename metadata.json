@@ -1,0 +1,6 @@
+{
+  "name": "THICKSHAKES",
+  "description": "Premium, rich, and decadent thickshakes made with fresh ingredients, expert preparation, and unique flavors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
